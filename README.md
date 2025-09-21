@@ -30,3 +30,12 @@ This means it is dedicated to the public domain:
 ## Citation
 
 If you use or reference this work, citation is appreciated:  
+
+---
+
+## Note on Embodiments
+
+This repository describes the **law itself**.  
+Applications of this law (e.g., to energy storage controllers) are documented separately and may be subject to patent filings.  
+
+
