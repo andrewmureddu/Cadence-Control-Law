@@ -30,6 +30,8 @@ This means it is dedicated to the public domain:
 ## Citation
 
 If you use or reference this work, citation is appreciated:  
+Mureddu, A. (2025). Cadence Control Law. GitHub repository.
+DOI: [Zenodo DOI will appear here after release]
 
 ---
 
