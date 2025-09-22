@@ -1,43 +1,27 @@
-# Cadence Control Law
+# Cadence Control Law (CCL)
 
-The **Cadence Control Law (CCL)** is a systems principle describing how heterogeneous modules (energy, biological, computational, or social) achieve persistence.  
+The Cadence Control Law states:  
+*A heterogeneous system achieves maximum persistence when its members rotate roles in a repeating cadence, such that no member is permanently confined to either high-stress or low-stress duty.*
 
-> A heterogeneous system achieves maximum persistence when its constituent modules cyclically exchange roles of capacity, alignment, and response in a fixed cadence, thereby suppressing differential stress and synchronizing degradation.
-
----
-
-This repository collects notes, scaffolding, and references for CCL as a scientific law.  
+This repository preserves the law itself as public knowledge. Implementations (such as the Cadence Battery Controller) are handled separately and may be subject to patent protection.
 
 ---
 
-## Purpose
-
-- To share the **law** openly and freely.  
-- To provide **distilled axioms** and explanatory scaffolding.  
-- To ensure the law is recognized as **prior art** and cannot be enclosed by private claim.  
+## Contents
+- [Distilled Axioms](axioms.md)  
+- [Formal Law Statement](law.md)  
+- [References](references.md)  
 
 ---
 
 ## License
-
-This repository is released under the **Creative Commons Zero v1.0 Universal (CC0 1.0)** license.  
-This means it is dedicated to the public domain:  
-- You may copy, modify, distribute, and use the contents for any purpose, without asking permission.  
-- The intent is to keep the law freely available as a shared foundation.  
+This repository is released under **Creative Commons Zero v1.0 Universal (CC0)**.  
+The law is open and free for all to use.
 
 ---
 
 ## Citation
+When referencing this work, please cite as:
 
-If you use or reference this work, citation is appreciated:  
-Mureddu, A. (2025). Cadence Control Law. GitHub repository.
-DOI: [Zenodo DOI will appear here after release]
-
----
-
-## Note on Embodiments
-
-This repository describes the **law itself**.  
-Applications of this law (e.g., to energy storage controllers) are documented separately and may be subject to patent filings.  
-
-
+> Mureddu, A. (2025). *Cadence Control Law.* GitHub repository.  
+> DOI: [Zenodo DOI will appear here after release]
